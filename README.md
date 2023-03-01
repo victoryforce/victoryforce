@@ -1,3 +1,2 @@
 ## Profile
-![victoryforce's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoryforce&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)
-![victoryforce's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoryforce&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)
+<img src="https://github-readme-stats.vercel.app/api?username=victoryforce&include_all_commits=true&show_icons=true&theme=gotham&hide_title=true" alt="github stats" width="48%" align="left"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=victoryforce&theme=gotham" width="45%">
